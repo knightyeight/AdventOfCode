@@ -208,7 +208,7 @@ def twosum(le):
     for i in le:
         if 2020 - i in le:
             return (2020 -i) * i
-            
-            
+
+
 print(twosum(l))
 print(threesum(l))
